@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Monumento renascença africana",
+        "localidade": "Dacar",
+        "pais": "Senegal"
+    }, 
+    {
+        "nome": "Joricoacoara",
+        "localidade": "Ceará",
+        "pais": "Brasil"
+    },
+    {
+        "nome": "Museu do Louvre",
+        "localidade": "Paris",
+        "pais": "França"
+    },
+    {
+        "nome": "Moulin Rouge",
+        "localidade": "Paris",
+        "pais": "França"
+    }, 
+    {
+        "nome": "Caminito",
+        "localidade": "Buenos Aires",
+        "pais": "Argentina"
+    }, 
+    {
+        "nome": "Instituto Inhotim",
+        "localidade": "Brumadinho",
+        "pais": "Brasil"
+    }, 
+    {
+        "nome": "Dreamland Museu de Cera",
+        "localidade": "Gramado",
+        "pais": "Brasil"
+    }, 
+    {
+        "nome": "Parque Nacional dos Lençóis Maranhenses",
+        "localidade": "Maranhão",
+        "pais": "Brasil"
+    }, 
+    {
+        "nome": "Petrópolis",
+        "localidade": "Rio de Janeiro",
+        "pais": "Brasil"
+    }, 
+    {
+        "nome": "Região da Toscana",
+        "localidade": "Florença",
+        "pais": "Italia"
+    }
+]

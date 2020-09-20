@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Adriana Calcanhoto",
+        "idade": "54 anos",
+        "genero": "MPB"
+    },
+    {
+        "nome": "Alice Caymmi",
+        "idade": "30 anos",
+        "genero": "MPB"
+    },
+    {
+        "nome": "Duda Beat",
+        "idade": "32 anos",
+        "genero": "POP"
+    },
+    {
+        "nome": "Elza Soares",
+        "idade": "90 anos",
+        "genero": "sambalanço"
+    },
+    {
+        "nome": "Iza",
+        "idade": "30 anos",
+        "genero": "R&B contemporâneo"
+    },
+    {
+        "nome": "Gal Costa",
+        "idade": "74 anos",
+        "genero": "MPB"
+    },
+    {
+        "nome": "Mariene de Castro",
+        "idade": "42 anos",
+        "genero": "samba"
+    },
+    {
+        "nome": "Marisa Monte",
+        "idade": "53 anos",
+        "genero": "MPB"
+    },
+    {
+        "nome": "Pitty",
+        "idade": "42 anos",
+        "genero": "rock"
+    },
+    {
+        "nome": "Vanessa da Mata",
+        "idade": "44 anos",
+        "genero": "MPB"
+    }
+]
