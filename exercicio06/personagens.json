@@ -1,8 +1,52 @@
 [
     {
-        "nome": "Petrópolis",
-        "programa": "Rio de Janeiro",
-        "criador": "Brasil"
+        "nome": "Mickey Mouse",
+        "programa": "Mickey Mouse",
+        "criador": "Walt Disney"
+    },
+    {
+        "nome": "Pantera Negra",
+        "programa": "Fantastic Four",
+        "criador": "Stan Lee"
+    },
+    {
+        "nome": "Chris",
+        "programa": "Todo mundo odeio o Chris",
+        "criador": "Chris Rock"
     }, 
-
+    {
+        "nome": "Chaves",
+        "programa": "El Chavo del Ocho!",
+        "criador": "Roberto Gómez Bolaños"
+    }, 
+    {
+        "nome": "Nazaré Tedesco",
+        "programa": "Senhora do Destino",
+        "criador": "Aguinaldo Silva"
+    }, 
+    {
+        "nome": "Pato Donald",
+        "programa": "A casa do Mickey Mouse",
+        "criador": "Walt Disney"
+    }, 
+    {
+        "nome": "Meredith Grey",
+        "programa": "Gray's Anatomy",
+        "criador": "Shonda Rhimes"
+    }, 
+    {
+        "nome": "Carmminha",
+        "programa": "Avenida Brasil",
+        "criador": "João Emanuel Carneiro"
+    }, 
+    {
+        "nome": "Annalise Keating",
+        "programa": "How to Get Away with Murder",
+        "criador": "Shonda Rhimes"
+    }, 
+    {
+        "nome": "Mister Brau",
+        "programa": "Mr Brau",
+        "criador": "Lázaro Ramos"
+    }
 ]
