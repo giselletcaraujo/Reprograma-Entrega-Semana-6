@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Arturito",
+        "especialidade": "Variado",
+        "cidade": "São Paulo"
+    }, 
+    {
+        "nome": "Costa Brava",
+        "especialidade": "Espanhol",
+        "cidade": "Recife"
+    }, 
+    {
+        "nome": "Tomaselli",
+        "especialidade": "Italiana",
+        "cidade": "Recife"
+    }, 
+    {
+        "nome": "Mocoto",
+        "especialidade": "Sertanejo",
+        "cidade": "São Paulo"
+    },
+    {
+        "nome": "Zen",
+        "especialidade": "Japones",
+        "cidade": "Recife"
+    },  
+    {
+        "nome": "Bargaço",
+        "especialidade": "Frutos do mar",
+        "cidade": "São Paulo"
+    }, 
+    {
+        "nome": "Mangai",
+        "especialidade": "Brasileiro",
+        "cidade": "João Pessoa"
+    }, 
+    {
+        "nome": "Camarada Camarão",
+        "especialidade": "Frutos do mar",
+        "cidade": "Recife"
+    }, 
+    {
+        "nome": "Chinatown",
+        "especialidade": "Chinesa",
+        "cidade": "Recife"
+    }, 
+    {
+        "nome": "Burgogui",
+        "especialidade": "Koreano",
+        "cidade": "Recife"
+    }
+]

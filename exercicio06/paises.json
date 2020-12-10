@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Brasil",
+        "capital": "Brasília",
+        "continente": "América"
+    },
+    {
+        "nome": "Uruguai",
+        "capital": "Montevidéu",
+        "continente": "América"
+    },
+    {
+        "nome": "Angola",
+        "capital": "Luanda",
+        "continente": "África"
+    },
+    {
+        "nome": "Uganda",
+        "capital": "Kampala",
+        "continente": "África"
+    },
+    {
+        "nome": "França",
+        "capital": "Paris",
+        "continente": "Europa"
+    },
+    {
+        "nome": "Holanda",
+        "capital": "Amsterdã",
+        "continente": "Europa"
+    },
+    {
+        "nome": "Indonésia",
+        "capital": "Jacarta",
+        "continente": "Ásia"
+    },
+    {
+        "nome": "Bangladesh",
+        "capital": "Daca",
+        "continente": "Ásia"
+    },
+    {
+        "nome": "Austrália",
+        "capital": "Camberra",
+        "continente": "Oceania"
+    },
+    {
+        "nome": "Nova Zelândia",
+        "capital": "Wellington",
+        "continente": "Oceania"
+    }
+]
